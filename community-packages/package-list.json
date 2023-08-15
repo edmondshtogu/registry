@@ -231,6 +231,10 @@
     {
       "repoSlug": "prodvana/pulumi-prodvana",
       "schemaFile": "provider/cmd/pulumi-resource-prodvana/schema.json"
+    },
+    {
+      "repoSlug": "pulumiverse/pulumi-esxi-native",
+      "schemaFile": "provider/cmd/pulumi-resource-esxi-native/schema.json"
     }
   ]
 }
